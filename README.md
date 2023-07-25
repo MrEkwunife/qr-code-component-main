@@ -26,8 +26,8 @@ The first Frontend mentor challenge I solved. Not perfect because it is not resp
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Raw Code](https://github.com/MrEkwunife/qr-code-component-main)
+- Live Site URL: [Livesite](https://lucky-swan-655b30.netlify.app/)
 
 ## My process
 
